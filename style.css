@@ -1,0 +1,33 @@
+body{
+    align-items: center;
+}
+header{
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding-top: 5px;
+}
+.first_logo{
+    margin: auto;
+}
+.a{
+    text-decoration: none;
+}
+.data{
+    height: fit-content;
+    margin: auto;
+}
+
+.choice-list{
+    margin: auto;
+    height: 50px;
+    margin: auto;
+    margin-top: 2em;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+    background-color: #791616;
+    border: solid 1px;
+    border-radius: 3px;
+    color: white;
+}
