@@ -1,5 +1,6 @@
 body{
     align-items: center;
+
    
     
 }
@@ -130,7 +131,7 @@ header{
     margin-top: 2em;
     text-align: center;
     padding-top: 11px;
-    font-size: medium;
+    font-size: small;
     background-color: #791616;
     border: solid 1px;
     border-radius: 3px;
@@ -139,4 +140,9 @@ header{
     border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;
     
+}
+i{
+    font-size: x-large;
+    float: left;
+    padding-left: 15px;
 }
